@@ -2,23 +2,17 @@
 
 📌 Project Overview
 
-BrainSparkAI is an AI-powered student helper designed to enhance the learning experience by offering smart academic assistance. It provides AI-driven lecture summarization, an interactive Q&A system, a personalized study dashboard, flashcards, quizzes, and group chat functionalities.
+BrainSparkAI is an AI-powered student helper designed to enhance the learning experience by offering smart academic assistance. It provides AI-driven lecture summarization, an interactive Q&A system, and group chat/ Discussion Sessions functionalities.
 
 🚀 Features
 
-AI Lecture Summarization: Upload PDFs, text, or audio to extract key points.
+AI Lecture Summarization: Upload text to extract key points.
 
 AI-Powered Tutor: Simplifies explanations, adjusts complexity, and offers step-by-step guidance.
 
 Smart Q&A System: Context-aware responses with citations.
 
-Personalized Study Dashboard: Tracks progress, suggests materials, and allows bookmarking.
-
-Flashcards & Quizzes: AI-generated quizzes with score tracking.
-
-Multi-Language Support: AI explanations and summaries in different languages.
-
-Group Chat for Subjects: Interactive discussions for collaborative learning.
+Group Chat/Discussion Sessions: Interactive discussions for collaborative learning, where users can join private chatrooms with unique session id.
 
 Dark Mode & UI Customization: Light/Dark modes with theme personalization.
 
